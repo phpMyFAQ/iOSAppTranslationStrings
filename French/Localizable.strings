@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  PhpMyFAQ
+
+  Created by Rolf Warnecke on 08.11.14.
+  Copyright (c) 2014 BIS-Programmierung. All rights reserved.
+*/
+"Categories"    = "Catégories";
+"Back"          = "Arrière";
+"Done"          = "Fini";
+"Next"          = "Suivant";
+"Cancel"        = "Annuler";
+"Wrong Version" = "Version incorrecte";
+"Wrong Address" = "Adresse erronée";
+"WrongVerMsg"   = "Cette version de phpMyFAQ est pas compatible avec l'application.";
+"WrongAdrMsg"   = "L'adresse spécifiée ne est pas disponible. Se il vous plaît vérifier votre connexion et l'adresse HTTP.";

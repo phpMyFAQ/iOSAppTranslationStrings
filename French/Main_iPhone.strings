@@ -1,0 +1,123 @@
+
+/* Class = "UILabel"; text = "Loading ..."; ObjectID = "0pA-kE-JeZ"; */
+"0pA-kE-JeZ.text" = "Chargement ...";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "1er-F1-aPn"; */
+"1er-F1-aPn.title" = "phpMyFAQ Online";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "35Z-2d-X1T"; */
+"35Z-2d-X1T.text" = "Titre";
+
+/* Class = "UILabel"; text = "Loading ..."; ObjectID = "3gk-KS-33i"; */
+"3gk-KS-33i.text" = "Chargement ...";
+
+/* Class = "UIViewController"; title = "Categories"; ObjectID = "5GG-Um-jb4"; */
+"5GG-Um-jb4.title" = "Catégories";
+
+/* Class = "UITabBarController"; title = "phpMyFAQ Online"; ObjectID = "8YX-ce-x5E"; */
+"8YX-ce-x5E.title" = "phpMyFAQ Online";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "AIf-4v-JhL"; */
+"AIf-4v-JhL.title" = "Recherche";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "BRm-lm-IBL"; */
+"BRm-lm-IBL.text" = "Titre";
+
+/* Class = "UIViewController"; title = "Beliebte FAQ's"; ObjectID = "CAk-I9-5Kl"; */
+"CAk-I9-5Kl.title" = "FAQ populaires";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "CBq-1G-m7r"; */
+"CBq-1G-m7r.title" = "phpMyFAQ Online";
+
+/* Class = "UILabel"; text = "Main address of phpMyFAQ :"; ObjectID = "DMd-rX-RIo"; */
+"DMd-rX-RIo.text" = "Main address of phpMyFAQ :";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "DfR-18-s3A"; */
+"DfR-18-s3A.text" = "Subtitle";
+
+/* Class = "UIViewController"; title = "Show FAQ"; ObjectID = "EHC-yX-XSh"; */
+"EHC-yX-XSh.title" = "Show FAQ";
+
+/* Class = "UILabel"; text = "Checking ..."; ObjectID = "FF5-s8-sWc"; */
+"FF5-s8-sWc.text" = "la vérification...";
+
+/* Class = "UILabel"; text = "Titel"; ObjectID = "HNp-yT-2i4"; */
+"HNp-yT-2i4.text" = "Titre";
+
+/* Class = "UILabel"; text = "SubTitle"; ObjectID = "KT7-bG-GNp"; */
+"KT7-bG-GNp.text" = "SubTitle";
+
+/* Class = "UILabel"; text = "Loading ..."; ObjectID = "LJ7-S5-RFM"; */
+"LJ7-S5-RFM.text" = "Chargement ...";
+
+/* Class = "UIViewController"; title = "Einstellungen"; ObjectID = "MsX-Gq-uUE"; */
+"MsX-Gq-uUE.title" = "Paramètres";
+
+/* Class = "UILabel"; text = "Searching ..."; ObjectID = "N8k-Qo-6Z0"; */
+"N8k-Qo-6Z0.text" = "la Recherche...";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "NR5-dI-qUd"; */
+"NR5-dI-qUd.title" = "Catégories";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "PcU-6U-0fS"; */
+"PcU-6U-0fS.title" = "phpMyFAQ Online";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "QQc-nn-pa6"; */
+"QQc-nn-pa6.text" = "Titre";
+
+/* Class = "UIViewController"; title = "News"; ObjectID = "Qen-oX-oPa"; */
+"Qen-oX-oPa.title" = "Nouveautés";
+
+/* Class = "UITextField"; placeholder = "http://www.domain.tld/phpMyFAQ"; ObjectID = "RB8-Xt-WEj"; */
+"RB8-Xt-WEj.placeholder" = "http://www.domain.tld/phpMyFAQ";
+
+/* Class = "UITabBarItem"; title = "Beliebe FAQ's"; ObjectID = "RRl-A9-ynd"; */
+"RRl-A9-ynd.title" = "FAQ populaires";
+
+/* Class = "UITabBarItem"; title = "News"; ObjectID = "V57-WB-Tjz"; */
+"V57-WB-Tjz.title" = "Nouveautés";
+
+/* Class = "UILabel"; text = "Default language for the FAQ's :"; ObjectID = "WNy-Ay-MEc"; */
+"WNy-Ay-MEc.text" = "Default language for the FAQ's :";
+
+/* Class = "UILabel"; text = "Loading ..."; ObjectID = "WPg-es-1Sf"; */
+"WPg-es-1Sf.text" = "Chargement ...";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "XYx-wd-x9Y"; */
+"XYx-wd-x9Y.text" = "Titre";
+
+/* Class = "UITabBarItem"; title = "Latest FAQ's"; ObjectID = "bvg-5N-afd"; */
+"bvg-5N-afd.title" = "Dernières FAQs";
+
+/* Class = "UINavigationItem"; title = "Properties"; ObjectID = "fy8-cO-27g"; */
+"fy8-cO-27g.title" = "Paramètres";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "hir-Mk-Ip8"; */
+"hir-Mk-Ip8.title" = "phpMyFAQ Online";
+
+/* Class = "UIViewController"; title = "Neuste FAQ's"; ObjectID = "ixu-nW-DuA"; */
+"ixu-nW-DuA.title" = "Dernières FAQs";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "jgc-oX-Ae6"; */
+"jgc-oX-Ae6.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Loading ..."; ObjectID = "kHb-uu-7WO"; */
+"kHb-uu-7WO.text" = "Chargement ...";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "lVt-fs-ZHz"; */
+"lVt-fs-ZHz.title" = "Catégories";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "nWw-fu-vtE"; */
+"nWw-fu-vtE.text" = "Subtitle";
+
+/* Class = "UINavigationController"; title = "Einstellungen"; ObjectID = "o3A-iR-y53"; */
+"o3A-iR-y53.title" = "Paramètres";
+
+/* Class = "UINavigationController"; title = "Categories"; ObjectID = "pBj-K5-ebH"; */
+"pBj-K5-ebH.title" = "Catégories";
+
+/* Class = "UILabel"; text = "Loading ..."; ObjectID = "sVF-Hg-2t6"; */
+"sVF-Hg-2t6.text" = "Chargement ...";
+
+/* Class = "UITabBarItem"; title = "Properties"; ObjectID = "z7P-78-Kzt"; */
+"z7P-78-Kzt.title" = "Paramètres";
