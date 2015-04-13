@@ -18,7 +18,7 @@
 "A6M-NV-VRt.title" = "Impostazioni";
 
 /* Class = "IBUINavigationItem"; title = "Kategorien"; ObjectID = "CH5-sT-6Gb"; */
-"CH5-sT-6Gb.title" = "Kategorien";
+"CH5-sT-6Gb.title" = "Categoria";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "CHX-FD-yNk"; */
 "CHX-FD-yNk.text" = "Subtitle";
@@ -33,7 +33,7 @@
 "Fog-Mr-aW7.text" = "Caricamento ...";
 
 /* Class = "IBUITabBarItem"; title = "Kategorien"; ObjectID = "HEF-OX-PCe"; */
-"HEF-OX-PCe.title" = "Kategorien";
+"HEF-OX-PCe.title" = "Categoria";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "Ias-DJ-VbZ"; */
 "Ias-DJ-VbZ.text" = "Caricamento ...";
@@ -92,8 +92,8 @@
 /* Class = "IBUINavigationController"; title = "Einstellungen"; ObjectID = "jOM-i2-o99"; */
 "jOM-i2-o99.title" = "Impostazioni";
 
-/* Class = "IBUIViewController"; title = "Categories"; ObjectID = "jgt-aZ-dpc"; */
-"jgt-aZ-dpc.title" = "Categories";
+/* Class = "IBUIViewController"; title = "Kategorien"; ObjectID = "jgt-aZ-dpc"; */
+"jgt-aZ-dpc.title" = "Categoria";
 
 /* Class = "IBUINavigationItem"; title = "Einstellungen"; ObjectID = "juB-18-EXW"; */
 "juB-18-EXW.title" = "Impostazioni";
@@ -124,4 +124,3 @@
 
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "w2Y-8A-c1m"; */
 "w2Y-8A-c1m.text" = "Überprüfung...";
-

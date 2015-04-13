@@ -5,7 +5,7 @@
   Created by Rolf Warnecke on 13.05.15.
   Copyright (c) 2015 BIS-Programmierung. All rights reserved.
 */
-"Categories"    = "Kategorien";
+"Categories"    = "Categoria";
 "Back"          = "Indietro";
 "Done"          = "finito";
 "Next"          = "continuare";

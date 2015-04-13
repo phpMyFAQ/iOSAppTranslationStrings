@@ -12,7 +12,7 @@
 "3gk-KS-33i.text" = "Caricamento ...";
 
 /* Class = "IBUIViewController"; title = "Kategorien"; ObjectID = "5GG-Um-jb4"; */
-"5GG-Um-jb4.title" = "Kategorien";
+"5GG-Um-jb4.title" = "Categoria";
 
 /* Class = "IBUITabBarController"; title = "phpMyFAQ Online"; ObjectID = "8YX-ce-x5E"; */
 "8YX-ce-x5E.title" = "phpMyFAQ Online";
@@ -48,7 +48,7 @@
 "MsX-Gq-uUE.title" = "Impostazioni";
 
 /* Class = "IBUITabBarItem"; title = "Kategorien"; ObjectID = "NR5-dI-qUd"; */
-"NR5-dI-qUd.title" = "Kategorien";
+"NR5-dI-qUd.title" = "Categoria";
 
 /* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "PcU-6U-0fS"; */
 "PcU-6U-0fS.title" = "phpMyFAQ Online";
@@ -90,7 +90,7 @@
 "kHb-uu-7WO.text" = "Caricamento ...";
 
 /* Class = "IBUINavigationItem"; title = "Kategorien"; ObjectID = "lVt-fs-ZHz"; */
-"lVt-fs-ZHz.title" = "Kategorien";
+"lVt-fs-ZHz.title" = "Categoria";
 
 /* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "nWw-fu-vtE"; */
 "nWw-fu-vtE.text" = "Subtitle";
@@ -99,7 +99,7 @@
 "o3A-iR-y53.title" = "Impostazioni";
 
 /* Class = "IBUINavigationController"; title = "Kategorien"; ObjectID = "pBj-K5-ebH"; */
-"pBj-K5-ebH.title" = "Kategorien";
+"pBj-K5-ebH.title" = "Categoria";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "sVF-Hg-2t6"; */
 "sVF-Hg-2t6.text" = "Caricamento ...";
