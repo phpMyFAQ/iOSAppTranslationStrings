@@ -57,7 +57,7 @@
 "YMY-N4-jD0.title" = "Novitá";
 
 /* Class = "IBUILabel"; text = "Standardsprache für die Anzeige der FAQ's :"; ObjectID = "ZeB-3M-Ji7"; */
-"ZeB-3M-Ji7.text" = "Standardsprache für die Anzeige der FAQ's :";
+"ZeB-3M-Ji7.text" = "Lingua predefinita per la visualizzazione delle FAQs :";
 
 /* Class = "IBUITabBarItem"; title = "News"; ObjectID = "aUl-Tl-eVi"; */
 "aUl-Tl-eVi.title" = "Novitá";
@@ -123,4 +123,4 @@
 "qkV-et-rco.text" = "Ricercare...";
 
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "w2Y-8A-c1m"; */
-"w2Y-8A-c1m.text" = "Überprüfung...";
+"w2Y-8A-c1m.text" = "Recensione...";

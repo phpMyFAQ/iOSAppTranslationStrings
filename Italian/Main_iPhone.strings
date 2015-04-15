@@ -66,7 +66,7 @@
 "V57-WB-Tjz.title" = "Novitá";
 
 /* Class = "IBUILabel"; text = "Standardprache für die Anzeige der FAQ's :"; ObjectID = "WNy-Ay-MEc"; */
-"WNy-Ay-MEc.text" = "Standardsprache für die Anzeige der FAQ's :";
+"WNy-Ay-MEc.text" = "Lingua predefinita per la visualizzazione delle FAQs :";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "WPg-es-1Sf"; */
 "WPg-es-1Sf.text" = "Caricamento ...";
@@ -114,4 +114,4 @@
 "N8k-Qo-6Z0.text" = "Ricercare...";
 
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "FF5-s8-sWc"; */
-"FF5-s8-sWc.text" = "Überprüfung...";
+"FF5-s8-sWc.text" = "Recensione...";
