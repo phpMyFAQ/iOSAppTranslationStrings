@@ -1,0 +1,127 @@
+
+/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "1RW-Cq-p3P"; */
+"1RW-Cq-p3P.text" = "Untertitel";
+
+/* Class = "IBUIViewController"; title = "FAQ anzeigen"; ObjectID = "318-fl-QAu"; */
+"318-fl-QAu.title" = "FAQ anzeigen";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "47l-8z-zqa"; */
+"47l-8z-zqa.title" = "phpMyFAQ Online";
+
+/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "554-EV-gG1"; */
+"554-EV-gG1.text" = "Untertitel";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "8CQ-if-I2l"; */
+"8CQ-if-I2l.title" = "phpMyFAQ Online";
+
+/* Class = "IBUITabBarItem"; title = "Einstellungen"; ObjectID = "A6M-NV-VRt"; */
+"A6M-NV-VRt.title" = "Postavke";
+
+/* Class = "IBUINavigationItem"; title = "Kategorien"; ObjectID = "CH5-sT-6Gb"; */
+"CH5-sT-6Gb.title" = "Kategorije";
+
+/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "CHX-FD-yNk"; */
+"CHX-FD-yNk.text" = "Untertitel";
+
+/* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "EgX-Rq-i4Y"; */
+"EgX-Rq-i4Y.text" = "Punjenje ...";
+
+/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "F0j-n6-dRZ"; */
+"F0j-n6-dRZ.text" = "Untertitel";
+
+/* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "Fog-Mr-aW7"; */
+"Fog-Mr-aW7.text" = "Punjenje ...";
+
+/* Class = "IBUITabBarItem"; title = "Kategorien"; ObjectID = "HEF-OX-PCe"; */
+"HEF-OX-PCe.title" = "Kategorije";
+
+/* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "Ias-DJ-VbZ"; */
+"Ias-DJ-VbZ.text" = "Punjenje ...";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "Kyq-v4-DEi"; */
+"Kyq-v4-DEi.text" = "Naslov";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "M45-V3-qSn"; */
+"M45-V3-qSn.text" = "Naslov";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "MGv-Uf-gtS"; */
+"MGv-Uf-gtS.title" = "phpMyFAQ Online";
+
+/* Class = "IBUIViewController"; title = "Einstellungen"; ObjectID = "UNY-M2-XpV"; */
+"UNY-M2-XpV.title" = "Postavke";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "V0Z-2M-cgn"; */
+"V0Z-2M-cgn.text" = "Naslov";
+
+/* Class = "IBUIViewController"; title = "Neuigkeiten"; ObjectID = "YMY-N4-jD0"; */
+"YMY-N4-jD0.title" = "Vijesti";
+
+/* Class = "IBUILabel"; text = "Standardsprache für die Anzeige der FAQ's :"; ObjectID = "ZeB-3M-Ji7"; */
+"ZeB-3M-Ji7.text" = "Zadani jezik za prikaz pitanja :";
+
+/* Class = "IBUITabBarItem"; title = "Neuigkeiten"; ObjectID = "aUl-Tl-eVi"; */
+"aUl-Tl-eVi.title" = "Vijesti";
+
+/* Class = "IBUILabel"; text = "Hauptadresses des phpMyFAQ :"; ObjectID = "aVo-EJ-4lv"; */
+"aVo-EJ-4lv.text" = "Glavna Adresa phpMyFAQ :";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "baB-J2-rj3"; */
+"baB-J2-rj3.text" = "Naslov";
+
+/* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "cb7-BC-KYi"; */
+"cb7-BC-KYi.text" = "Punjenje ...";
+
+/* Class = "IBUIViewController"; title = "Beliebte FAQ's"; ObjectID = "eWg-Mc-l41"; */
+"eWg-Mc-l41.title" = "Prikazan pitanja";
+
+/* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "ezz-zM-cEJ"; */
+"ezz-zM-cEJ.text" = "Punjenje ...";
+
+/* Class = "IBUITabBarItem"; title = "Neuste FAQ's"; ObjectID = "gir-aN-1Nr"; */
+"gir-aN-1Nr.title" = "Najnovije pitanja";
+
+/* Class = "IBUIViewController"; title = "Neuste FAQ's"; ObjectID = "goW-qp-DZd"; */
+"goW-qp-DZd.title" = "Najnovije pitanja";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "iQI-pL-zM0"; */
+"iQI-pL-zM0.title" = "phpMyFAQ Online";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "igQ-Oo-mLF"; */
+"igQ-Oo-mLF.title" = "phpMyFAQ Online";
+
+/* Class = "IBUINavigationController"; title = "Einstellungen"; ObjectID = "jOM-i2-o99"; */
+"jOM-i2-o99.title" = "Postavke";
+
+/* Class = "IBUIViewController"; title = "Kategorien"; ObjectID = "jgt-aZ-dpc"; */
+"jgt-aZ-dpc.title" = "Kategorije";
+
+/* Class = "IBUINavigationItem"; title = "Einstellungen"; ObjectID = "juB-18-EXW"; */
+"juB-18-EXW.title" = "Postavke";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "l4n-rn-zcI"; */
+"l4n-rn-zcI.title" = "phpMyFAQ Online";
+
+/* Class = "IBUITabBarItem"; title = "Beliebte FAQ's"; ObjectID = "lXq-vi-g1l"; */
+"lXq-vi-g1l.title" = "Prikazan pitanja";
+
+/* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "ljY-fJ-Y9c"; */
+"ljY-fJ-Y9c.text" = "Punjenje ...";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "obS-JO-9Df"; */
+"obS-JO-9Df.title" = "phpMyFAQ Online";
+
+/* Class = "IBUILabel"; text = "Titel"; ObjectID = "t62-Nh-dDY"; */
+"t62-Nh-dDY.text" = "Naslov";
+
+/* Class = "IBUITextField"; placeholder = "http://www.domain.tld/phpMyFAQ"; ObjectID = "w1d-dT-qeI"; */
+"w1d-dT-qeI.placeholder" = "http://www.domain.tld/phpMyFAQ";
+
+/* Class = "IBUINavigationItem"; title = "Suchen"; ObjectID = "r34-JA-u4o"; */
+"r34-JA-u4o.title" = "Pretraživanje";
+
+/* Class = "IBUILabel"; text = "Suchvorgang ..."; ObjectID = "qkV-et-rco"; */
+"qkV-et-rco.text" = "Traži...";
+
+/* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "w2Y-8A-c1m"; */
+"w2Y-8A-c1m.text" = "Pregled...";
+

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  PhpMyFAQ
+
+  Created by Rolf Warnecke on 08.11.14.
+  Copyright (c) 2014 BIS-Programmierung. All rights reserved.
+*/
+"Categories"    = "Kategorije";
+"Back"          = "Natrag";
+"Done"          = "Gotovo";
+"Next"          = "Dalje";
+"Cancel"        = "Prekinuti";
+"Wrong Version" = "Pogrešna Verzija";
+"Wrong Address" = "Pogrešna Adresa";
+"WrongVerMsg"   = "Ova phpMyFAQ Verzija nije kompatibilna sa Aplikacijom.";
+"WrongAdrMsg"   = "Izabrana Adresa nije dostupna. Molimo vas prekontrolirajte vaš priključak i HTTP Adresu.";
