@@ -1,0 +1,9 @@
+
+/* Class = "UIBarButtonItem"; title = "Abbrechen"; ObjectID = "BXh-Wo-xHv"; */
+"BXh-Wo-xHv.title" = "abortire";
+
+/* Class = "UILabel"; text = "Bitte auswählen :"; ObjectID = "MQm-Ig-EQ9"; */
+"MQm-Ig-EQ9.text" = "Si prega di selezionare:";
+
+/* Class = "UIBarButtonItem"; title = "Weiter"; ObjectID = "W20-Cl-x5Z"; */
+"W20-Cl-x5Z.title" = "prossimo";

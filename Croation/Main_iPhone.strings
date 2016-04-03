@@ -30,16 +30,16 @@
 "DMd-rX-RIo.text" = "Glavna Adresa phpMyFAQ :";
 
 /* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "DfR-18-s3A"; */
-"DfR-18-s3A.text" = "Untertitel";
+"DfR-18-s3A.text" = "titl";
 
 /* Class = "IBUIViewController"; title = "FAQ anzeigen"; ObjectID = "EHC-yX-XSh"; */
-"EHC-yX-XSh.title" = "FAQ anzeigen";
+"EHC-yX-XSh.title" = "Pogledajte FAQ";
 
 /* Class = "IBUILabel"; text = "Titel"; ObjectID = "HNp-yT-2i4"; */
 "HNp-yT-2i4.text" = "Naslov";
 
 /* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "KT7-bG-GNp"; */
-"KT7-bG-GNp.text" = "Untertitel";
+"KT7-bG-GNp.text" = "titl";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "LJ7-S5-RFM"; */
 "LJ7-S5-RFM.text" = "Punjenje ...";
@@ -115,3 +115,35 @@
 
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "FF5-s8-sWc"; */
 "FF5-s8-sWc.text" = "Pregled...";
+
+/* Class = "IBUINavigationItem"; title = "Favoriten"; ObjectID = "qLv-AO-d7S"; */
+"qLv-AO-d7S.title" = "Omiljene";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Adressen"; ObjectID = "FOJ-NI-Nad"; */
+"FOJ-NI-Nad.title" = "phpMyFAQ Adrese";
+
+/* Class = "IBUILabel"; text = "Einstellungen"; ObjectID = "eXb-N0-YAN"; */
+"eXb-N0-YAN.text" = "Postavke";
+
+/* Class = "IBUILable"; text = "Favoriten"; ObjectID = "cLE-z4-ymg"; */
+"cLE-z4-ymg.text" = "Omiljene";
+
+/* Class = "IBUILabel"; text = "phpMyFAQ Adressen"; ObjectID = "hXn-TJ-0tc"; */
+"hXn-TJ-0tc.text" = "phpMyFAQ Adrese";
+
+/* Class = "IBUILabel"; text = "In-App Käufe"; ObjectID = "5y1-Ot-Wdq"; */
+"5y1-Ot-Wdq.text" = "In-App Kupnja";
+"DR4-CI-4mJ.title" = "In-App Kupnja";
+
+/* Class = "IBUILabel"; text = "In-App Käufe wiederherstellen"; ObjectID = "HCl-A5-8cm"; */
+"HCl-A5-8cm.text" = "Oporavak In-App Kupnja";
+
+/* Class = "IBUILabel"; text = "Werbung ausschalten / phpMyFAQ Adressen"; ObjectID = "DM8-ba-bf9"; */
+"DM8-ba-bf9.text" = "Isključite oglašavanja / phpMyFAQ adresa";
+
+/* Class = "IBUILabel"; text = "Option \"Mitteilungen\" aktivieren"; ObjectID = "d1J-mg-bpd"; */
+"d1J-mg-bpd.text" = "Omogući opciju \"Poruke\"";
+
+/* Class = "IBUILabel"; text = "FAQ-Eintrag per Mail im PDF-Format versenden"; ObjectID = "8wf-dv-yG9"; */
+"8wf-dv-yG9.text" = "Slanje unos FAQ putem e-pošte u pdf formatu";
+

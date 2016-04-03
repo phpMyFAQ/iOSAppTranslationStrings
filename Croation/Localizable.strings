@@ -1,16 +1,58 @@
-/* 
+/*
   Localizable.strings
   PhpMyFAQ
 
   Created by Rolf Warnecke on 08.11.14.
   Copyright (c) 2014 BIS-Programmierung. All rights reserved.
 */
-"Categories"    = "Kategorije";
-"Back"          = "Natrag";
-"Done"          = "Gotovo";
-"Next"          = "Dalje";
-"Cancel"        = "Prekinuti";
-"Wrong Version" = "Pogrešna Verzija";
-"Wrong Address" = "Pogrešna Adresa";
-"WrongVerMsg"   = "Ova phpMyFAQ Verzija nije kompatibilna sa Aplikacijom.";
-"WrongAdrMsg"   = "Izabrana Adresa nije dostupna. Molimo vas prekontrolirajte vaš priključak i HTTP Adresu.";
+"Categories"            = "Kategorije";
+"Back"                  = "Natrag";
+"BackTable"             = "<< Natrag";
+"Done"                  = "Gotovo";
+"Next"                  = "Dalje";
+"Cancel"                = "Prekinuti";
+"YES"                   = "Da";
+"NO"                    = "Nema";
+"Wrong Version"         = "Pogrešna Verzija";
+"Wrong Address"         = "Pogrešna Adresa";
+"WrongVerMsg"           = "Ova phpMyFAQ Verzija nije kompatibilna sa Aplikacijom.";
+"WrongAdrMsg"           = "Izabrana Adresa nije dostupna. Molimo vas prekontrolirajte vaš priključak i HTTP Adresu.";
+"Favorites"             = "Omiljene";
+"Addresses"             = "Adrese";
+"CustomFavorite"        = "%d Omiljeni";
+"CustomFavorites"       = "%d Omiljene";
+"DeleteFavorite"        = "Vedro Omiljeni";
+"DeleteFavoriteMsg"     = "Želite li izbrisati ovaj FAQ kao omiljeni ?";
+"SaveFavorite"          = "Dodaj u Favorite";
+"SaveFavoriteMsg"       = "FAQ je uspješno spremljena kao Favorite";
+"SaveFavoriteFailedMsg" = "Ovaj FAQ nije mogao biti spremljene kao Favorite !!";
+"DeletionFavorite"      = "Brisanje...";
+"DeletionFavoriteMsg"   = "Ulaz je uspješno obrisana !!";
+"DeletionFavoriteFailedMsg" = "Ulazak ne može se izbrisati.";
+"DeleteItem"            = "Izbrisati";
+"FavoriteExport"        = "Uvoz / izvoz favoriti";
+"FavoriteExportMsg"     = "Uvoz / izvoz omiljene radi samo s iCloud Drive.";
+"ImportFavorite"        = "Uvoz favorite";
+"ExportFavorite"        = "Izvoz favorite";
+"ExportFavoriteAlert"   = "Izvoz favorita...";
+"FAQAddresses"          = "%d Adrese";
+"FAQAddress"            = "%d Adresa";
+"AddressExport"         = "Uvoz / izvoz Adresar";
+"ImportAddress"         = "Uvoz adrese";
+"ExportAddress"         = "Izvoz adresa";
+"ExportAddressAlert"    = "Izvoz adresa...";
+"AddressExportMsg"      = "Uvoz / izvoz od adresa radi samo s iCloud Drive.";
+"ChangedAddress"        = "phpMyFAQ promijenio adresu";
+"ChangedAddressMsg"     = "Novi phpMyFAQ : %@";
+"Actions"               = "Akcije :";
+"SecureFAQ"             = "Savjet";
+"SecureFAQMsg"          = "PhpMyFAQ navedena zaštićena. Otkažite zaštitu i pokušajte ponovno.";
+"callPDFMail"           = "Pošalji kao PDF poštom...";
+"takeChoice"            = "Molimo odaberite :";
+"EMailSent"             = "E-mail s FAQ uspješno poslan kao PDF datoteku.";
+"EMailSentTitle"        = "Status Dostava :";
+"PurchaseSuccessfully"  = "Kupnja je uspješno završena";
+"Purchased"             = "kupili";
+"InAppDisabled"         = "U-app kupovina onemogućeni na uređaju";
+"Attachments"           = "Priloge (%lu)";
+"NoAttachments"         = "Nema privitaka";

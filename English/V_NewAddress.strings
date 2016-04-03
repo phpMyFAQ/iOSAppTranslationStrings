@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Default Language for the FAQs"; ObjectID = "BfD-s1-iZE"; */
+"BfD-s1-iZE.text" = "Default Language for the FAQs :";
+
+/* Class = "UILabel"; text = "Add new address"; ObjectID = "S0b-Iq-Gvt"; */
+"S0b-Iq-Gvt.text" = "Add new address :";
+
+/* Class = "UILabel"; text = "Main address of phpMyFAQ"; ObjectID = "qg6-4o-THu"; */
+"qg6-4o-THu.text" = "Main address of phpMyFAQ :";
+
+/* Class = "UILabel"; text = "Title for the phpMyFAQ"; ObjectID = "WVZ-Aj-I4P"; */
+"WVZ-Aj-I4P.text" = "Title for the phpMyFAQ :";

@@ -2,15 +2,57 @@
   Localizable.strings
   PhpMyFAQ
 
-  Created by Rolf Warnecke on 13.05.15.
-  Copyright (c) 2015 BIS-Programmierung. All rights reserved.
+  Created by Rolf Warnecke on 08.11.14.
+  Copyright (c) 2014 BIS-Programmierung. All rights reserved.
 */
-"Categories"    = "Categoria";
-"Back"          = "Indietro";
-"Done"          = "finito";
-"Next"          = "continuare";
-"Cancel"        = "smettere";
-"Wrong Version" = "versione errata";
-"Wrong Address" = "indirizzo sbagliato";
-"WrongVerMsg"   = "questa phpMyFAQ versione non é compatibile con la App.";
-"WrongAdrMsg"   = "l´indirizzo indicato non é raggiungibile. Verifichi la sua linea o l´indirizzo HTTP.";
+"Categories"            = "Categoria";
+"Back"                  = "Indietro";
+"BackTable"             = "<< Indietro";
+"Done"                  = "finito";
+"Next"                  = "continuare";
+"Cancel"                = "smettere";
+"YES"                   = "sì";
+"NO"                    = "no";
+"Wrong Version"         = "versione errata";
+"Wrong Address"         = "indirizzo sbagliato";
+"WrongVerMsg"           = "questa phpMyFAQ versione non é compatibile con la App.";
+"WrongAdrMsg"           = "l´indirizzo indicato non é raggiungibile. Verifichi la sua linea o l´indirizzo HTTP.";
+"Favorites"             = "preferiti";
+"Addresses"             = "indirizzi";
+"CustomFavorite"        = "%d favorito";
+"CustomFavorites"       = "%d preferiti";
+"DeleteFavorite"        = "Chiaro favorito";
+"DeleteFavoriteMsg"     = "Vuoi eliminare questa FAQ come Preferito ?";
+"SaveFavorite"          = "Aggiungi a Preferiti";
+"SaveFavoriteMsg"       = "La FAQ è stata salvata con successo come Preferito";
+"SaveFavoriteFailedMsg" = "Questa FAQ non può essere salvata come Preferito !!";
+"DeletionFavorite"      = "Soppressione...";
+"DeletionFavoriteMsg"   = "La voce è stata cancellata con successo !!";
+"DeletionFavoriteFailedMsg" = "La voce non è stato possibile eliminare.";
+"DeleteItem"            = "Cancellare";
+"FavoriteExport"        = "Importa / Esporta Preferiti";
+"FavoriteExportMsg"     = "L'import / export di preferiti funziona solo con iCloud Drive.";
+"ImportFavorite"        = "Importazione preferiti";
+"ExportFavorite"        = "Esportazione di favoriti";
+"ExportFavoriteAlert"   = "Preferiti esportazione...";
+"FAQAddresses"          = "%d indirizzi";
+"FAQAddress"            = "%d indirizzo";
+"AddressExport"         = "Import / Export Indirizzi";
+"ImportAddress"         = "Importazione di indirizzi";
+"ExportAddress"         = "Esportazione di indirizzi";
+"ExportAddressAlert"    = "Indirizzi di esportazione...";
+"AddressExportMsg"      = "L'import / export degli indirizzi funziona solo con iCloud Drive.";
+"ChangedAddress"        = "phpMyFAQ indirizzo variabile";
+"ChangedAddressMsg"     = "nuovo phpMyFAQ : %@";
+"Actions"               = "Azioni :";
+"SecureFAQ"             = "Suggerimento";
+"SecureFAQMsg"          = "Il phpMyFAQ specificato è protetto. Si prega di annullare la protezione e riprovare.";
+"callPDFMail"           = "Invia come PDF via e-mail...";
+"takeChoice"            = "Seleziona :";
+"EMailSent"             = "L'e-mail con la FAQ è stata inviata correttamente come file PDF.";
+"EMailSentTitle"        = "Stato spedizione :";
+"PurchaseSuccessfully"  = "L'acquisto è stato completato con successo";
+"Purchased"             = "Acquistato";
+"InAppDisabled"         = "Acquisti in-app sono disabilitati sul dispositivo";
+"Attachments"           = "Allegati (%lu)";
+"NoAttachments"         = "Nessun allegato";

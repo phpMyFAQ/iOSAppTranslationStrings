@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Default Language for the FAQs"; ObjectID = "BfD-s1-iZE"; */
+"BfD-s1-iZE.text" = "Προεπιλεγμένη γλώσσα για το Συχνές Ερωτήσεις :";
+
+/* Class = "UILabel"; text = "Add new address"; ObjectID = "S0b-Iq-Gvt"; */
+"S0b-Iq-Gvt.text" = "Προσθήκη νέας διεύθυνσης :";
+
+/* Class = "UILabel"; text = "Main address of phpMyFAQ"; ObjectID = "qg6-4o-THu"; */
+"qg6-4o-THu.text" = "Κύρια διεύθυνση του phpMyFAQ :";
+
+/* Class = "UILabel"; text = "Title for the phpMyFAQ"; ObjectID = "WVZ-Aj-I4P"; */
+"WVZ-Aj-I4P.text" = "Τίτλος phpMyFAQ:";

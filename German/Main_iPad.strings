@@ -1,15 +1,15 @@
 
-/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "1RW-Cq-p3P"; */
-"1RW-Cq-p3P.text" = "Untertitel";
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "1RW-Cq-p3P"; */
+"1RW-Cq-p3P.text" = "Subtitle";
 
-/* Class = "IBUIViewController"; title = "FAQ anzeigen"; ObjectID = "318-fl-QAu"; */
-"318-fl-QAu.title" = "FAQ anzeigen";
+/* Class = "IBUIViewController"; title = "Show FAQ"; ObjectID = "318-fl-QAu"; */
+"318-fl-QAu.title" = "Show FAQ";
 
 /* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "47l-8z-zqa"; */
 "47l-8z-zqa.title" = "phpMyFAQ Online";
 
-/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "554-EV-gG1"; */
-"554-EV-gG1.text" = "Untertitel";
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "554-EV-gG1"; */
+"554-EV-gG1.text" = "Subtitle";
 
 /* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "8CQ-if-I2l"; */
 "8CQ-if-I2l.title" = "phpMyFAQ Online";
@@ -20,14 +20,14 @@
 /* Class = "IBUINavigationItem"; title = "Kategorien"; ObjectID = "CH5-sT-6Gb"; */
 "CH5-sT-6Gb.title" = "Kategorien";
 
-/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "CHX-FD-yNk"; */
-"CHX-FD-yNk.text" = "Untertitel";
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "CHX-FD-yNk"; */
+"CHX-FD-yNk.text" = "Subtitle";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "EgX-Rq-i4Y"; */
 "EgX-Rq-i4Y.text" = "Ladevorgang ...";
 
-/* Class = "IBUILabel"; text = "Untertitel"; ObjectID = "F0j-n6-dRZ"; */
-"F0j-n6-dRZ.text" = "Untertitel";
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "F0j-n6-dRZ"; */
+"F0j-n6-dRZ.text" = "Subtitle";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "Fog-Mr-aW7"; */
 "Fog-Mr-aW7.text" = "Ladevorgang ...";
@@ -50,8 +50,8 @@
 /* Class = "IBUIViewController"; title = "Einstellungen"; ObjectID = "UNY-M2-XpV"; */
 "UNY-M2-XpV.title" = "Einstellungen";
 
-/* Class = "IBUILabel"; text = "Titel"; ObjectID = "V0Z-2M-cgn"; */
-"V0Z-2M-cgn.text" = "Titel";
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "V0Z-2M-cgn"; */
+"V0Z-2M-cgn.text" = "Title";
 
 /* Class = "IBUIViewController"; title = "News"; ObjectID = "YMY-N4-jD0"; */
 "YMY-N4-jD0.title" = "Neuigkeiten";
@@ -59,14 +59,14 @@
 /* Class = "IBUILabel"; text = "Standardsprache für die Anzeige der FAQ's :"; ObjectID = "ZeB-3M-Ji7"; */
 "ZeB-3M-Ji7.text" = "Standardsprache für die Anzeige der FAQ's :";
 
-/* Class = "IBUITabBarItem"; title = "Neuigkeiten"; ObjectID = "aUl-Tl-eVi"; */
+/* Class = "IBUITabBarItem"; title = "News"; ObjectID = "aUl-Tl-eVi"; */
 "aUl-Tl-eVi.title" = "Neuigkeiten";
 
 /* Class = "IBUILabel"; text = "Hauptadresses des phpMyFAQ :"; ObjectID = "aVo-EJ-4lv"; */
 "aVo-EJ-4lv.text" = "Hauptadresses des phpMyFAQ :";
 
-/* Class = "IBUILabel"; text = "Titel"; ObjectID = "baB-J2-rj3"; */
-"baB-J2-rj3.text" = "Titel";
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "baB-J2-rj3"; */
+"baB-J2-rj3.text" = "Title";
 
 /* Class = "IBUILabel"; text = "Ladevorgang ..."; ObjectID = "cb7-BC-KYi"; */
 "cb7-BC-KYi.text" = "Ladevorgang ...";
@@ -92,8 +92,8 @@
 /* Class = "IBUINavigationController"; title = "Einstellungen"; ObjectID = "jOM-i2-o99"; */
 "jOM-i2-o99.title" = "Einstellungen";
 
-/* Class = "IBUIViewController"; title = "Kategorien"; ObjectID = "jgt-aZ-dpc"; */
-"jgt-aZ-dpc.title" = "Kategorien";
+/* Class = "IBUIViewController"; title = "Categories"; ObjectID = "jgt-aZ-dpc"; */
+"jgt-aZ-dpc.title" = "Categories";
 
 /* Class = "IBUINavigationItem"; title = "Einstellungen"; ObjectID = "juB-18-EXW"; */
 "juB-18-EXW.title" = "Einstellungen";
@@ -110,8 +110,8 @@
 /* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "obS-JO-9Df"; */
 "obS-JO-9Df.title" = "phpMyFAQ Online";
 
-/* Class = "IBUILabel"; text = "Titel"; ObjectID = "t62-Nh-dDY"; */
-"t62-Nh-dDY.text" = "Titel";
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "t62-Nh-dDY"; */
+"t62-Nh-dDY.text" = "Title";
 
 /* Class = "IBUITextField"; placeholder = "http://www.domain.tld/phpMyFAQ"; ObjectID = "w1d-dT-qeI"; */
 "w1d-dT-qeI.placeholder" = "http://www.domain.tld/phpMyFAQ";
@@ -125,3 +125,36 @@
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "w2Y-8A-c1m"; */
 "w2Y-8A-c1m.text" = "Überprüfung...";
 
+/* Class = "IBUINavigationItem"; title = "Favoriten"; ObjectID = "eWe-Xz-kB0"; */
+"eWe-Xz-kB0.title" = "Favoriten";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Adressen verwalten"; ObjectID = "J0x-Hz-F09"; */
+"J0x-Hz-F09.title" = "phpMyFAQ Adressen verwalten";
+
+/* Class = "IBUILabel"; text = "Einstellungen"; ObjectID = "zj6-xq-p6r"; */
+"zj6-xq-p6r.text" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Favoriten"; ObjectID = "R54-aW-mBh"; */
+"R54-aW-mBh.text" = "Favoriten";
+
+/* Class = "IBUILabel"; text = "phpMyFAQ Adressen"; ObjectID = "gZ0-gH-eT9"; */
+"gZ0-gH-eT9.text" = "phpMyFAQ Adressen";
+
+/* Class = "IBUILabel"; text = "In-App Käufe"; ObjectID = "cvb-LS-eY6"; */
+"cvb-LS-eY6.text" = "In-App Käufe";
+"0al-dh-XY0.title" = "In-App Käufe";
+
+/* Class = "IBUILabel"; text = "In-App Käufe wiederherstellen"; ObjectID = "9Io-cg-UEV"; */
+"9Io-cg-UEV.text" = "In-App Käufe wiederherstellen";
+
+/* Class = "IBUILabel"; text = "Werbung ausschalten / phpMyFAQ Adressen"; ObjectID = "rJp-BN-4Zf"; */
+"rJp-BN-4Zf.text" = "Werbung ausschalten / phpMyFAQ Adressen";
+
+/* Class = "IBUILabel"; text = "Option \"Mitteilungen\" aktivieren"; ObjectID = "Z20-KL-w2m"; */
+"Z20-KL-w2m.text" = "Option \"Mitteilungen\" aktivieren";
+
+/* Class = "IBUILabel"; text = "FAQ-Eintrag per Mail im PDF-Format versenden"; ObjectID = "acc-3N-RXQ"; */
+"acc-3N-RXQ.text" = "FAQ-Eintrag per Mail im PDF-Format versenden";
+
+/* Class = "IBUILable"; text = "Anhänge von FAQ Einträgen öffnen"; ObjectID = "Hiv-9t-e7T"; */
+"Hiv-9t-e7T.text" = "Anhänge von FAQ Einträgen öffnen";

@@ -83,7 +83,10 @@
 /* Class = "UIViewController"; title = "Neuste FAQ's"; ObjectID = "goW-qp-DZd"; */
 "goW-qp-DZd.title" = "Latest FAQs";
 
-/* Class = "UINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "igQ-Oo-mLF"; */
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "iQI-pL-zM0"; */
+"iQI-pL-zM0.title" = "phpMyFAQ Online";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Online"; ObjectID = "igQ-Oo-mLF"; */
 "igQ-Oo-mLF.title" = "phpMyFAQ Online";
 
 /* Class = "UINavigationController"; title = "Einstellungen"; ObjectID = "jOM-i2-o99"; */
@@ -121,3 +124,38 @@
 
 /* Class = "UILabel"; text = "Checking ..."; ObjectID = "w2Y-8A-c1m"; */
 "w2Y-8A-c1m.text" = "Checking ...";
+
+/* Class = "IBUINavigationItem"; title = "Favoriten"; ObjectID = "eWe-Xz-kB0"; */
+"eWe-Xz-kB0.title" = "Favorites";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Adressen verwalten"; ObjectID = "J0x-Hz-F09"; */
+"J0x-Hz-F09.title" = "Manage phpMyFAQ addresses";
+
+/* Class = "IBUILabel"; text = "Einstellungen"; ObjectID = "zj6-xq-p6r"; */
+"zj6-xq-p6r.text" = "Properties";
+
+/* Class = "IBUILabel"; text = "Favoriten"; ObjectID = "R54-aW-mBh"; */
+"R54-aW-mBh.text" = "Favorites";
+
+/* Class = "IBUILabel"; text = "phpMyFAQ Adressen"; ObjectID = "gZ0-gH-eT9"; */
+"gZ0-gH-eT9.text" = "phpMyFAQ Addresses";
+
+/* Class = "IBUILabel"; text = "In-App Käufe"; ObjectID = "cvb-LS-eY6"; */
+"cvb-LS-eY6.text" = "In-App Purchases";
+"0al-dh-XY0.title" = "In-App Purchases";
+
+/* Class = "IBUILabel"; text = "In-App Käufe wiederherstellen"; ObjectID = "9Io-cg-UEV"; */
+"9Io-cg-UEV.text" = "Restore In-App Purchases";
+
+/* Class = "IBUILabel"; text = "Werbung ausschalten / phpMyFAQ Adressen"; ObjectID = "rJp-BN-4Zf"; */
+"rJp-BN-4Zf.text" = "Turn off advertising / phpMyFAQ Addresses";
+
+/* Class = "IBUILabel"; text = "Option \"Mitteilungen\" aktivieren"; ObjectID = "Z20-KL-w2m"; */
+"Z20-KL-w2m.text" = "Enable option \"Messages\"";
+
+/* Class = "IBUILabel"; text = "FAQ-Eintrag per Mail im PDF-Format versenden"; ObjectID = "acc-3N-RXQ"; */
+"acc-3N-RXQ.text" = "Send FAQ entry by email in pdf format";
+
+/* Class = "IBUILable"; text = "Anhänge von FAQ Einträgen öffnen"; ObjectID = "Hiv-9t-e7T"; */
+"Hiv-9t-e7T.text" = "Open attachments of FAQ entries";
+

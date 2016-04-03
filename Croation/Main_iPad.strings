@@ -125,3 +125,34 @@
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "w2Y-8A-c1m"; */
 "w2Y-8A-c1m.text" = "Pregled...";
 
+/* Class = "IBUINavigationItem"; title = "Favoriten"; ObjectID = "eWe-Xz-kB0"; */
+"eWe-Xz-kB0.title" = "Omiljene";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Adressen verwalten"; ObjectID = "J0x-Hz-F09"; */
+"J0x-Hz-F09.title" = "Upravljanje phpMyFAQ adrese";
+
+/* Class = "IBUILabel"; text = "Einstellungen"; ObjectID = "zj6-xq-p6r"; */
+"zj6-xq-p6r.text" = "Postavke";
+
+/* Class = "IBUILabel"; text = "Favoriten"; ObjectID = "R54-aW-mBh"; */
+"R54-aW-mBh.text" = "Omiljene";
+
+/* Class = "IBUILabel"; text = "phpMyFAQ Adressen"; ObjectID = "gZ0-gH-eT9"; */
+"gZ0-gH-eT9.text" = "phpMyFAQ adrese";
+
+/* Class = "IBUILabel"; text = "In-App Käufe"; ObjectID = "cvb-LS-eY6"; */
+"cvb-LS-eY6.text" = "In-App Kupnja";
+"0al-dh-XY0.title" = "In-App Kupnja";
+
+/* Class = "IBUILabel"; text = "In-App Käufe wiederherstellen"; ObjectID = "9Io-cg-UEV"; */
+"9Io-cg-UEV.text" = "Oporavak In-App Kupnja";
+
+/* Class = "IBUILabel"; text = "Werbung ausschalten / phpMyFAQ Adressen"; ObjectID = "rJp-BN-4Zf"; */
+"rJp-BN-4Zf.text" = "Isključite oglašavanja / phpMyFAQ adresa";
+
+/* Class = "IBUILabel"; text = "Option \"Mitteilungen\" aktivieren"; ObjectID = "Z20-KL-w2m"; */
+"Z20-KL-w2m.text" = "Omogući opciju \"Poruke\"";
+
+/* Class = "IBUILabel"; text = "FAQ-Eintrag per Mail im PDF-Format versenden"; ObjectID = "acc-3N-RXQ"; */
+"acc-3N-RXQ.text" = "Slanje unos FAQ putem e-pošte u pdf formatu";
+

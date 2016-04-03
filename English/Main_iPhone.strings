@@ -115,3 +115,38 @@
 
 /* Class = "IBUILabel"; text = "Überprüfung ..."; ObjectID = "FF5-s8-sWc"; */
 "FF5-s8-sWc.text" = "Checking...";
+
+/* Class = "IBUINavigationItem"; title = "Favoriten"; ObjectID = "qLv-AO-d7S"; */
+"qLv-AO-d7S.title" = "Favorites";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ Adressen"; ObjectID = "FOJ-NI-Nad"; */
+"FOJ-NI-Nad.title" = "phpMyFAQ Addresses";
+
+/* Class = "IBUILabel"; text = "Einstellungen"; ObjectID = "eXb-N0-YAN"; */
+"eXb-N0-YAN.text" = "Properties";
+
+/* Class = "IBUILable"; text = "Favoriten"; ObjectID = "cLE-z4-ymg"; */
+"cLE-z4-ymg.text" = "Favorites";
+
+/* Class = "IBUILabel"; text = "phpMyFAQ Adressen"; ObjectID = "hXn-TJ-0tc"; */
+"hXn-TJ-0tc.text" = "phpMyFAQ Addresses";
+
+/* Class = "IBUILabel"; text = "In-App Käufe"; ObjectID = "5y1-Ot-Wdq"; */
+"5y1-Ot-Wdq.text" = "In-App Purchases";
+"DR4-CI-4mJ.title" = "In-App Purchases";
+
+/* Class = "IBUILabel"; text = "In-App Käufe wiederherstellen"; ObjectID = "HCl-A5-8cm"; */
+"HCl-A5-8cm.text" = "Restore In-App Purchases";
+
+/* Class = "IBUILabel"; text = "Werbung ausschalten / phpMyFAQ Adressen"; ObjectID = "DM8-ba-bf9"; */
+"DM8-ba-bf9.text" = "Turn off advertising / phpMyFAQ Addresses";
+
+/* Class = "IBUILabel"; text = "Option \"Mitteilungen\" aktivieren"; ObjectID = "d1J-mg-bpd"; */
+"d1J-mg-bpd.text" = "Enable option \"Messages\"";
+
+/* Class = "IBUILabel"; text = "FAQ-Eintrag per Mail im PDF-Format versenden"; ObjectID = "8wf-dv-yG9"; */
+"8wf-dv-yG9.text" = "Send FAQ entry by email in pdf format";
+
+/* Class = "IBUILable"; text = "Anhänge von FAQ Einträgen öffnen"; ObjectID = "V1X-0Y-vKj"; */
+"V1X-0Y-vKj.text" = "Open attachments of FAQ entries";
+
