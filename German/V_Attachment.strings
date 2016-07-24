@@ -1,0 +1,9 @@
+
+/* Class = "UIBarButtonItem"; title = "Open"; ObjectID = "MB3-pL-heP"; */
+"MB3-pL-heP.title" = "Öffnen";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "OU8-SJ-fWO"; */
+"OU8-SJ-fWO.title" = "Abbrechen";
+
+/* Class = "UILabel"; text = "Please select :"; ObjectID = "rQj-IA-zQZ"; */
+"rQj-IA-zQZ.text" = "Bitte auswählen :";

@@ -33,12 +33,14 @@
 "FavoriteExport"        = "Import / Export Favorites";
 "FavoriteExportMsg"     = "The Import/Export of the favorites only works with iCloud Drive.";
 "ImportFavorite"        = "Importing favorites";
+"ImportFavoriteAlert"   = "Import favorites...";
 "ExportFavorite"        = "Export of favorites";
 "ExportFavoriteAlert"   = "Export favorites...";
 "FAQAddresses"          = "%d addresses";
 "FAQAddress"            = "%d address";
 "AddressExport"         = "Import / Export Addresses";
 "ImportAddress"         = "Importing addresses";
+"ImportAddressAlert"    = "Import addresses...";
 "ExportAddress"         = "Export of addresses";
 "ExportAddressAlert"    = "Export addresses...";
 "AddressExportMsg"      = "The Import/Export of the addresses only works with iCloud Drive.";
@@ -55,4 +57,6 @@
 "Purchased"             = "Purchased";
 "InAppDisabled"         = "In-app purchases are disabled on the device";
 "Attachments"           = "Attachments (%lu)";
+"AttachmentTitle"       = "Attachments";
 "NoAttachments"         = "No attachments";
+"AttachmentGuest"       = "Downloading attachments is not accessible for guests.";

@@ -33,12 +33,14 @@
 "FavoriteExport"        = "Import/Export Favoriten";
 "FavoriteExportMsg"     = "Der Import/Export der Favoriten funktioniert nur mit dem iCloud Drive.";
 "ImportFavorite"        = "Importieren der Favoriten";
+"ImportFavoriteAlert"   = "Favoriten importieren...";
 "ExportFavorite"        = "Exportieren der Favoriten";
 "ExportFavoriteAlert"   = "Favoriten exportieren...";
 "FAQAddresses"          = "%d Adressen";
 "FAQAddress"            = "%d Adresse";
 "AddressExport"         = "Import/Export Adressen";
 "ImportAddress"         = "Importieren der Adressen";
+"ImportAddressAlert"    = "Adressen importieren...";
 "ExportAddress"         = "Exportieren der Adressen";
 "ExportAddressAlert"    = "Adressen exportieren...";
 "AddressExportMsg"      = "Der Import/Export der Adressen funktionoiert nur mit dem iCloud Drive.";
@@ -55,4 +57,6 @@
 "Purchased"             = "Gekauft";
 "InAppDisabled"         = "In-App Käufe sind auf dem Gerät deaktiviert";
 "Attachments"           = "Anhänge (%lu)";
+"AttachmentTitle"       = "Anhänge";
 "NoAttachments"         = "Keine Anhänge";
+"AttachmentGuest"       = "Das Herunterladen der Anhänge ist nicht für Gäste freigeschaltet.";

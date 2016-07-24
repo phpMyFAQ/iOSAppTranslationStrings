@@ -33,12 +33,14 @@
 "FavoriteExport"        = "Uvoz / izvoz favoriti";
 "FavoriteExportMsg"     = "Uvoz / izvoz omiljene radi samo s iCloud Drive.";
 "ImportFavorite"        = "Uvoz favorite";
+"ImportFavoriteAlert"   = "Uvoz favorita...";
 "ExportFavorite"        = "Izvoz favorite";
 "ExportFavoriteAlert"   = "Izvoz favorita...";
 "FAQAddresses"          = "%d Adrese";
 "FAQAddress"            = "%d Adresa";
 "AddressExport"         = "Uvoz / izvoz Adresar";
 "ImportAddress"         = "Uvoz adrese";
+"ImportAddressAlert"    = "Uvoz adress...";
 "ExportAddress"         = "Izvoz adresa";
 "ExportAddressAlert"    = "Izvoz adresa...";
 "AddressExportMsg"      = "Uvoz / izvoz od adresa radi samo s iCloud Drive.";
@@ -55,4 +57,6 @@
 "Purchased"             = "kupili";
 "InAppDisabled"         = "U-app kupovina onemogućeni na uređaju";
 "Attachments"           = "Priloge (%lu)";
+"AttachmentTitle"       = "Priloge";
 "NoAttachments"         = "Nema privitaka";
+"AttachmentGuest"       = "Preuzimanje privitaka nije dostupna za goste.";

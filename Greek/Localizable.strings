@@ -33,12 +33,14 @@
 "FavoriteExport"        = "Εισαγωγές / Εξαγωγές Αγαπημένα";
 "FavoriteExportMsg"     = "Η Εισαγωγή / Εξαγωγή αγαπημένα λειτουργεί μόνο με το iCloud Drive.";
 "ImportFavorite"        = "Εισαγωγή αγαπημένα";
+"ImportFavoriteAlert"   = "αγαπημένα εισαγωγής ...";
 "ExportFavorite"        = "Εξαγωγή αγαπημένα";
 "ExportFavoriteAlert"   = "Τα αγαπημένα των εξαγωγών...";
 "FAQAddresses"          = "%d διευθύνσεις";
 "FAQAddress"            = "%d διεύθυνση";
 "AddressExport"         = "Εισαγωγές / Εξαγωγές Διευθύνσεις";
 "ImportAddress"         = "εισαγωγή διευθύνσεις";
+"ImportAddressAlert"    = "διευθύνσεις των εισαγωγών...";
 "ExportAddress"         = "Εξαγωγή διευθύνσεων";
 "ExportAddressAlert"    = "διευθύνσεις των εξαγωγών...";
 "AddressExportMsg"      = "Η εισαγωγή / εξαγωγή των διευθύνσεων λειτουργεί μόνο με το iCloud Drive.";
@@ -55,4 +57,6 @@
 "Purchased"             = "αγόρασε";
 "InAppDisabled"         = "In-app αγορές είναι απενεργοποιημένες στη συσκευή";
 "Attachments"           = "συνημμένα (%lu)";
+"AttachmentTitle"       = "συνημμένα";
 "NoAttachments"         = "Δεν υπάρχουν συνημμένα";
+"AttachmentGuest"       = "Λήψη συνημμένων δεν είναι προσβάσιμο για τους επισκέπτες.";
