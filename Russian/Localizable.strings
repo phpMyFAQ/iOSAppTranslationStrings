@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  PhpMyFAQ
+
+  Created by Rolf Warnecke on 08.11.14.
+  Copyright (c) 2014 BIS-Programmierung. All rights reserved.
+*/
+"Categories"            = "Категории";
+"Back"                  = "Назад";
+"BackTable"             = "<< Назад";
+"Done"                  = "Готово";
+"Next"                  = "Дальше";
+"Cancel"                = "Отмена";
+"YES"                   = "Да";
+"NO"                    = "Нет";
+"Wrong Version"         = "Некорректная версия";
+"Wrong Address"         = "Некорректный адрес";
+"WrongVerMsg"           = "Эта версия phpMyFAQ не совместима с приложением.";
+"WrongAdrMsg"           = "Указанный адрес не доступен. Проверьте подключение к сети и адрес HTTP.";
+"Favorites"             = "Избранное";
+"Addresses"             = "Адреса";
+"CustomFavorite"        = "%d Избранное";
+"CustomFavorites"       = "%d Избранное";
+"DeleteFavorite"        = "Удалить Избранное";
+"DeleteFavoriteMsg"     = "Вы точно хотите удалить FAQ из Избранного?";
+"SaveFavorite"          = "Сохранить в Избранное";
+"SaveFavoriteMsg"       = "FAQ удачно сохранён в Избранное";
+"SaveFavoriteFailedMsg" = "Этот FAQ не может быть сохранён в Избранное !!";
+"DeletionFavorite"      = "Удаление...";
+"DeletionFavoriteMsg"   = "Эта запись успешно удалена !!";
+"DeletionFavoriteFailedMsg" = "Эта запись не может быть удалена.";
+"DeleteItem"            = "Удаление";
+"FavoriteExport"        = "Импорт / Экспорт Избранного";
+"FavoriteExportMsg"     = "Импорт/Экспорт Избранного работает только с iCloud Drive.";
+"ImportFavorite"        = "Импортирование избранного";
+"ImportFavoriteAlert"   = "Импортирование избранного...";
+"ExportFavorite"        = "Экспортирование избранного";
+"ExportFavoriteAlert"   = "Экспортирование избранного...";
+"FAQAddresses"          = "%d адреса";
+"FAQAddress"            = "%d адрес";
+"AddressExport"         = "Импорт / Экспорт Адресов";
+"ImportAddress"         = "Импортирование адресов";
+"ImportAddressAlert"    = "Импорт адресов...";
+"ExportAddress"         = "Экспортирование адресов";
+"ExportAddressAlert"    = "Экспорт адресов...";
+"AddressExportMsg"      = "Импорт/Экспорт адресов работает только с iCloud Drive.";
+"ChangedAddress"        = "Адрес phpMyFAQ изменён";
+"ChangedAddressMsg"     = "Новый phpMyFAQ : %@";
+"Actions"               = "Действия :";
+"SecureFAQ"             = "Совет";
+"SecureFAQMsg"          = "phpMyFAQ защищён. Пожалуйста снимите защиту и повторите попытку.";
+"callPDFMail"           = "Отправить PDF по почте...";
+"takeChoice"            = "Пожалуйста выберите :";
+"EMailSent"             = "E-mail с FAQ был успешно отправлен в формате PDF.";
+"EMailSentTitle"        = "Статус отправки :";
+"PurchaseSuccessfully"  = "Покупка выполнена успешно";
+"Purchased"             = "Приобретено";
+"InAppDisabled"         = "Покупки в приложении отключены на устройстве";
+"Attachments"           = "Вложения (%lu)";
+"AttachmentTitle"       = "Вложения";
+"NoAttachments"         = "Нет вложений";
+"AttachmentGuest"       = "Загрузка вложений не доступна для гостей.";

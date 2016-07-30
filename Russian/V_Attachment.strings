@@ -1,0 +1,9 @@
+
+/* Class = "UIBarButtonItem"; title = "Открыть"; ObjectID = "MB3-pL-heP"; */
+"MB3-pL-heP.title" = "Открыть";
+
+/* Class = "UIBarButtonItem"; title = "Отмена"; ObjectID = "OU8-SJ-fWO"; */
+"OU8-SJ-fWO.title" = "Отмена";
+
+/* Class = "UILabel"; text = "Выберите :"; ObjectID = "rQj-IA-zQZ"; */
+"rQj-IA-zQZ.text" = "Выберите :";

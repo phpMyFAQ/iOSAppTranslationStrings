@@ -1,0 +1,161 @@
+
+/* Class = "UILabel"; text = "Подзаголовок"; ObjectID = "1RW-Cq-p3P"; */
+"1RW-Cq-p3P.text" = "Подзаголовок";
+
+/* Class = "UIViewController"; title = "Показать FAQ"; ObjectID = "318-fl-QAu"; */
+"318-fl-QAu.title" = "Показать FAQ";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "47l-8z-zqa"; */
+"47l-8z-zqa.title" = "phpMyFAQ подключен";
+
+/* Class = "UILabel"; text = "Подзаголовок"; ObjectID = "554-EV-gG1"; */
+"554-EV-gG1.text" = "Подзаголовок";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "8CQ-if-I2l"; */
+"8CQ-if-I2l.title" = "phpMyFAQ подключен";
+
+/* Class = "UITabBarItem"; title = "Свойства"; ObjectID = "A6M-NV-VRt"; */
+"A6M-NV-VRt.title" = "Свойства";
+
+/* Class = "UINavigationItem"; title = "Категории"; ObjectID = "CH5-sT-6Gb"; */
+"CH5-sT-6Gb.title" = "Категории";
+
+/* Class = "UILabel"; text = "Подзаголовок"; ObjectID = "CHX-FD-yNk"; */
+"CHX-FD-yNk.text" = "Подзаголовок";
+
+/* Class = "UILabel"; text = "Загрузка ..."; ObjectID = "EgX-Rq-i4Y"; */
+"EgX-Rq-i4Y.text" = "Загрузка ...";
+
+/* Class = "UILabel"; text = "Подзаголовок"; ObjectID = "F0j-n6-dRZ"; */
+"F0j-n6-dRZ.text" = "Подзаголовок";
+
+/* Class = "UILabel"; text = "Загрузка ..."; ObjectID = "Fog-Mr-aW7"; */
+"Fog-Mr-aW7.text" = "Загрузка ...";
+
+/* Class = "UITabBarItem"; title = "Категории"; ObjectID = "HEF-OX-PCe"; */
+"HEF-OX-PCe.title" = "Категории";
+
+/* Class = "UILabel"; text = "Загрузка ..."; ObjectID = "Ias-DJ-VbZ"; */
+"Ias-DJ-VbZ.text" = "Загрузка ...";
+
+/* Class = "UILabel"; text = "Заголовок"; ObjectID = "Kyq-v4-DEi"; */
+"Kyq-v4-DEi.text" = "Заголовок";
+
+/* Class = "UILabel"; text = "Заголовок"; ObjectID = "M45-V3-qSn"; */
+"M45-V3-qSn.text" = "Заголовок";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "MGv-Uf-gtS"; */
+"MGv-Uf-gtS.title" = "phpMyFAQ подключен";
+
+/* Class = "UIViewController"; title = "Свойства"; ObjectID = "UNY-M2-XpV"; */
+"UNY-M2-XpV.title" = "Свойства";
+
+/* Class = "UILabel"; text = "Заголовок"; ObjectID = "V0Z-2M-cgn"; */
+"V0Z-2M-cgn.text" = "Заголовок";
+
+/* Class = "UIViewController"; title = "Новости"; ObjectID = "YMY-N4-jD0"; */
+"YMY-N4-jD0.title" = "Новости";
+
+/* Class = "UILabel"; text = "Язык локализации для FAQ :"; ObjectID = "ZeB-3M-Ji7"; */
+"ZeB-3M-Ji7.text" = "Язык локализации для FAQ :";
+
+/* Class = "UITabBarItem"; title = "Новости"; ObjectID = "aUl-Tl-eVi"; */
+"aUl-Tl-eVi.title" = "Новости";
+
+/* Class = "UILabel"; text = "Адрес сервера phpMyFAQ :"; ObjectID = "aVo-EJ-4lv"; */
+"aVo-EJ-4lv.text" = "Адрес сервера phpMyFAQ :";
+
+/* Class = "UILabel"; text = "Заголовок"; ObjectID = "baB-J2-rj3"; */
+"baB-J2-rj3.text" = "Заголовок";
+
+/* Class = "UILabel"; text = "Загрузка ..."; ObjectID = "cb7-BC-KYi"; */
+"cb7-BC-KYi.text" = "Загрузка ...";
+
+/* Class = "UIViewController"; title = "Популярные FAQ"; ObjectID = "eWg-Mc-l41"; */
+"eWg-Mc-l41.title" = "Популярные FAQ";
+
+/* Class = "UILabel"; text = "Загрузка ..."; ObjectID = "ezz-zM-cEJ"; */
+"ezz-zM-cEJ.text" = "Загрузка ...";
+
+/* Class = "UITabBarItem"; title = "Новые FAQ"; ObjectID = "gir-aN-1Nr"; */
+"gir-aN-1Nr.title" = "Новые FAQ";
+
+/* Class = "UIViewController"; title = "Новые FAQ"; ObjectID = "goW-qp-DZd"; */
+"goW-qp-DZd.title" = "Новые FAQ";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "iQI-pL-zM0"; */
+"iQI-pL-zM0.title" = "phpMyFAQ подключен";
+
+/* Class = "IBUINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "igQ-Oo-mLF"; */
+"igQ-Oo-mLF.title" = "phpMyFAQ подключен";
+
+/* Class = "UINavigationController"; title = "Настройки"; ObjectID = "jOM-i2-o99"; */
+"jOM-i2-o99.title" = "Настройки";
+
+/* Class = "UIViewController"; title = "Категории"; ObjectID = "jgt-aZ-dpc"; */
+"jgt-aZ-dpc.title" = "Категории";
+
+/* Class = "UINavigationItem"; title = "Настройки"; ObjectID = "juB-18-EXW"; */
+"juB-18-EXW.title" = "Настройки";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "l4n-rn-zcI"; */
+"l4n-rn-zcI.title" = "phpMyFAQ подключен";
+
+/* Class = "UITabBarItem"; title = "Самые популярные FAQ"; ObjectID = "lXq-vi-g1l"; */
+"lXq-vi-g1l.title" = "Самые популярные FAQ";
+
+/* Class = "UILabel"; text = "Загрузка ..."; ObjectID = "ljY-fJ-Y9c"; */
+"ljY-fJ-Y9c.text" = "Загрузка ...";
+
+/* Class = "UINavigationItem"; title = "phpMyFAQ подключен"; ObjectID = "obS-JO-9Df"; */
+"obS-JO-9Df.title" = "phpMyFAQ подключен";
+
+/* Class = "UILabel"; text = "Поиск..."; ObjectID = "qkV-et-rco"; */
+"qkV-et-rco.text" = "Поиск...";
+
+/* Class = "UINavigationItem"; title = "Поиск"; ObjectID = "r34-JA-u4o"; */
+"r34-JA-u4o.title" = "Поиск";
+
+/* Class = "UILabel"; text = "Заголовок"; ObjectID = "t62-Nh-dDY"; */
+"t62-Nh-dDY.text" = "Заголовок";
+
+/* Class = "UITextField"; placeholder = "http://www.domain.tld/phpMyFAQ"; ObjectID = "w1d-dT-qeI"; */
+"w1d-dT-qeI.placeholder" = "http://www.domain.tld/phpMyFAQ";
+
+/* Class = "UILabel"; text = "Проверка ..."; ObjectID = "w2Y-8A-c1m"; */
+"w2Y-8A-c1m.text" = "Проверка ...";
+
+/* Class = "IBUINavigationItem"; title = "Избранное"; ObjectID = "eWe-Xz-kB0"; */
+"eWe-Xz-kB0.title" = "Избранное";
+
+/* Class = "IBUINavigationItem"; title = "Управление адресами phpMyFAQ"; ObjectID = "J0x-Hz-F09"; */
+"J0x-Hz-F09.title" = "Управление адресами phpMyFAQ";
+
+/* Class = "IBUILabel"; text = "Настройки"; ObjectID = "zj6-xq-p6r"; */
+"zj6-xq-p6r.text" = "Настройки";
+
+/* Class = "IBUILabel"; text = "Избранное"; ObjectID = "R54-aW-mBh"; */
+"R54-aW-mBh.text" = "Избранное";
+
+/* Class = "IBUILabel"; text = "Адреса phpMyFAQ"; ObjectID = "gZ0-gH-eT9"; */
+"gZ0-gH-eT9.text" = "Адреса phpMyFAQ";
+
+/* Class = "IBUILabel"; text = "Встроенные покупки"; ObjectID = "cvb-LS-eY6"; */
+"cvb-LS-eY6.text" = "Встроенные покупки";
+"0al-dh-XY0.title" = "Встроенные покупки";
+
+/* Class = "IBUILabel"; text = "Восстановить покупки"; ObjectID = "9Io-cg-UEV"; */
+"9Io-cg-UEV.text" = "Восстановить покупки";
+
+/* Class = "IBUILabel"; text = "Отключение рекламы / Адреса phpMyFAQ"; ObjectID = "rJp-BN-4Zf"; */
+"rJp-BN-4Zf.text" = "Отключение рекламы / Адреса phpMyFAQ";
+
+/* Class = "IBUILabel"; text = "Настройки \"Сообщения\" настройка"; ObjectID = "Z20-KL-w2m"; */
+"Z20-KL-w2m.text" = "Настройка \"Сообщения\"";
+
+/* Class = "IBUILabel"; text = "Отправка FAQ по почте в формате PDF"; ObjectID = "acc-3N-RXQ"; */
+"acc-3N-RXQ.text" = "Отправка FAQ по почте в формате PDF";
+
+/* Class = "IBUILable"; text = "Открывать вложения записей FAQ"; ObjectID = "Hiv-9t-e7T"; */
+"Hiv-9t-e7T.text" = "Открывать вложения записей FAQ";
+
