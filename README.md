@@ -5,6 +5,6 @@ These files are the translation pattern for the iOS App phpMyFAQ. The app is for
 Please write an mail or issue in german or english.
 
 Localizable.strings Files :
-Only the right value is the translation and the characters with a % in front are placeholder for variable values.
+Only the right value is the translation and the characters with a % in front are placeholder for variable values. The chars \r\n don't delete. This are characters to set a new line.
 
-In all other *.strings Files are the right value the translation. Don’t modify the comments and the left value.
+In all other *.strings Files are the right value the translation. Don’t modify the comments (/** ... */) and the left value.
