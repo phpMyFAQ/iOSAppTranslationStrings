@@ -2,8 +2,8 @@
   Localizable.strings
   PhpMyFAQ
 
-  Created by Rolf Warnecke on 08.11.14.
-  Copyright (c) 2014 BIS-Programmierung. All rights reserved.
+  Created by Rolf Warnecke on 03.07.2016.
+  Copyright (c) 2016 Q4U Digitale Intelligenz. All rights reserved.
 */
 "Categories"            = "Категории";
 "Back"                  = "Назад";
@@ -60,3 +60,5 @@
 "AttachmentTitle"       = "Вложения";
 "NoAttachments"         = "Нет вложений";
 "AttachmentGuest"       = "Загрузка вложений не доступна для гостей.";
+"Guidance"              = "Instruction";
+"GuidanceMsg"           = "To use this app you need the address to a phpMyFAQ \"The FAQ system\" webfrontend. This address enter you in the first field. If you have no address, you can use the examples from the app description.\r\nIn the second field the your desired language. After you save the settings with the button at the top right. If the address is reached, you will be automatically redirected to the main part of the app.";

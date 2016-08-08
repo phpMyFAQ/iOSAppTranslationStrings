@@ -1,9 +1,9 @@
 
-/* Class = "UIBarButtonItem"; title = "Отмена"; ObjectID = "BXh-Wo-xHv"; */
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "BXh-Wo-xHv"; */
 "BXh-Wo-xHv.title" = "Отмена";
 
-/* Class = "UILabel"; text = "Выберите :"; ObjectID = "MQm-Ig-EQ9"; */
+/* Class = "UILabel"; text = "Please select :"; ObjectID = "MQm-Ig-EQ9"; */
 "MQm-Ig-EQ9.text" = "Выберите :";
 
-/* Class = "UIBarButtonItem"; title = "Далее"; ObjectID = "W20-Cl-x5Z"; */
+/* Class = "UIBarButtonItem"; title = "Next"; ObjectID = "W20-Cl-x5Z"; */
 "W20-Cl-x5Z.title" = "Далее";

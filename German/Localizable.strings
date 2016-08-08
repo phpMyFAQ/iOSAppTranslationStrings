@@ -60,3 +60,5 @@
 "AttachmentTitle"       = "Anhänge";
 "NoAttachments"         = "Keine Anhänge";
 "AttachmentGuest"       = "Das Herunterladen der Anhänge ist nicht für Gäste freigeschaltet.";
+"Guidance"              = "Anleitung";
+"GuidanceMsg"           = "Um diese App nutzen zu können benötigen Sie die Adresse zu einem phpMyFAQ \"The FAQ System\" Webfrontend. Diese Adresse tragen Sie in das erste Feld ein. Wenn Sie keine Adresse haben, können Sie die Beispiele aus der App Beschreibung nutzen.\r\nIm zweiten Feld wählen Sie die gewünschte Sprache aus. Danach speichern Sie die Einstellungen über den Button oben rechts. Ist die Adresse erreichbar, werden Sie automatisch in den Hauptteil der App weitergeleitet.";

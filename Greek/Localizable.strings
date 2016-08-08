@@ -60,3 +60,5 @@
 "AttachmentTitle"       = "συνημμένα";
 "NoAttachments"         = "Δεν υπάρχουν συνημμένα";
 "AttachmentGuest"       = "Λήψη συνημμένων δεν είναι προσβάσιμο για τους επισκέπτες.";
+"Guidance"              = "Instruction";
+"GuidanceMsg"           = "To use this app you need the address to a phpMyFAQ \"The FAQ system\" webfrontend. This address enter you in the first field. If you have no address, you can use the examples from the app description.\r\nIn the second field the your desired language. After you save the settings with the button at the top right. If the address is reached, you will be automatically redirected to the main part of the app.";
